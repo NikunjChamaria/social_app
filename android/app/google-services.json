@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791386335668",
+    "project_id": "wall-tutorial",
+    "storage_bucket": "wall-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791386335668:android:e1151d20e9be48faab2ae1",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791386335668-75alasd81ghpiukp3sm15979ljke3d6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ORmg57MDPEEi5F40o0zivjKe2nyRP-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791386335668-75alasd81ghpiukp3sm15979ljke3d6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
